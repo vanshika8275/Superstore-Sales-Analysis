@@ -14,9 +14,7 @@ This project showcase an end to end data analytics workflow - from cleaning tran
  📷 Dashboard Preview
  View Dashboard:
 - [📄 PDF Version]() – Quick snapshot of the dashboard
-- [📊 PBIX File](Dashboard/superstore_sales.pbix) – Open in Power BI for interactive use
-
-![Dashboard Screenshot](Images/dashboard_preview.png)
+- [📊 PBIX File]() – Open in Power BI for interactive use
 
 🚀 How to Use
 1. Download the `.pbix` file from the **Dashboard** folder.
