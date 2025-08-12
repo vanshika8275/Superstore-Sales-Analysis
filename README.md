@@ -12,7 +12,7 @@ This project showcase an end to end data analytics workflow - from cleaning tran
 - Power BI (Interactive Dashboards, DAX Calculations)
 
  📷 Dashboard Preview
-![Dashboard Screenshot](Images/dashboard_preview.png)
+superstore sales dashboard.pdf
 
 🚀 How to Use
 1. Download the `.pbix` file from the **Dashboard** folder.
